@@ -36,7 +36,7 @@
           {% assign j = 0 %} {% for image in post.images %} {% assign j = j | plus:1 %}
           <div class="image__container">
             <img class="mySlidesx image-{{ j }} {{ image.class }}" src="{{ image.image_path }}" alt="{{ image.title}}" />
-            {% if image.image_caption And image.image_caption != "" And image.image_caption != nil %}
+            {% if image.image_caption %}
             <figcaption>[&#8593;] <span>{{image.image_caption}}</span></figcaption>
             {% endif %}
           </div>
