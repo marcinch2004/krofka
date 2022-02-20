@@ -6,9 +6,26 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Feb 2022 18:31:59 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Feb 2022 18:31:59 +0100</lastBuildDate>
+    <pubDate>Sun, 20 Feb 2022 19:38:52 +0100</pubDate>
+    <lastBuildDate>Sun, 20 Feb 2022 19:38:52 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Notebutikken</title>
+        <description>&lt;p class=&quot;overlay__content&quot;&gt;My task in this project was to create the web design based on the provided style guide. The challenge was to use only one main colour, create easy-to-use filters and find smart design solutions for long book titles and subtitles, as well as publications from many authors. I worked closely with the UX team and the client. The design is still under development.&lt;/p&gt;
+
+&lt;!--
+Moim zadniem w tym projekcie było stworzenie designu strony bazującego na dostarczonym stylebooku. Wyzwaniem było oparcie designu o jeden tylko kolor główny, stworzenie przejrzystego systemu filtrów i uwzględnieniu bardzo długich tytułów i podtytułów ksiązek, a takze publikacji mających wielu autorów. W trakcie pracy ściśle współpracowałem z teamem UX i klientem. Strona wciąz jest zmieniena i rozwijana.
+--&gt;
+</description>
+        <pubDate>Wed, 15 Dec 2021 21:08:10 +0100</pubDate>
+        <link>http://localhost:4000/design/2021/12/15/notebutikken.html</link>
+        <guid isPermaLink="true">http://localhost:4000/design/2021/12/15/notebutikken.html</guid>
+        
+        
+        <category>Design</category>
+        
+      </item>
     
       <item>
         <title>Fagbokforlaget</title>
