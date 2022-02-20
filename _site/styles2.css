@@ -191,9 +191,9 @@ main { position: relative; }
 .overlay .box__content { position: relative; margin: 1.2rem 0 0.7rem; max-width: 90%; display: inline-block; text-transform: capitalize; }
 .overlay .box__content .website__link { text-transform: uppercase; }
 .overlay .photo-gallery { position: relative; width: calc(100vw - 28rem); max-width: 1200px; text-align: right; }
-.overlay .photo-gallery .image__container { margin-bottom: 2rem; border-radius: 0.3rem; }
+.overlay .photo-gallery .image__container { margin-bottom: 2rem; border-radius: 0.3rem; display: flex; flex-direction: column; align-items: flex-end; }
 .overlay .photo-gallery .image__container img { max-width: 900px; width: 100%; max-height: inherit; position: relative; box-shadow: 0px 0px 15px 5px #cccccc; }
-.overlay .photo-gallery .image__container figcaption { font-size: 0.9rem; text-align: center; }
+.overlay .photo-gallery .image__container figcaption { max-width: 900px; width: 100%; text-align: left; margin-top: 0.6rem; }
 .overlay .photo-gallery .image__container img.no-shadow { box-shadow: none; }
 
 .overlay--open { pointer-events: auto; overflow-y: scroll; background-color: #ececec; }

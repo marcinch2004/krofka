@@ -12,7 +12,7 @@ images:
     - image_path: img/portfolio/fagbokforlaget/fagbok-5.png
       class: no-shadow
 modalID: modalMoje
-keywords: Prototype / Design / UI Design
+keywords: Design System / UI/UX / Prototype
 category: Design
 website: fagbokforlaget.no
 ---

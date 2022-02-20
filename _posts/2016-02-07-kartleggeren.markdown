@@ -17,7 +17,7 @@ images:
       image_caption: New logo proposals
 
 modalID: modalSubmarine
-keywords: Prototype / Design
+keywords: Prototype / Design / Branding
 category: Design
 website: kartleggeren.no
 ---
